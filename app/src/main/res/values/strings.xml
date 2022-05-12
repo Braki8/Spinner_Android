@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="valor1_Primera_Valor">Primer valor</string>
+    <string name="valor2_Segundo_Valor">Segundo valor</string>
+    <string name="Botton_Calcular">Calcular</string>
+    <string name="Tv_Resultado">Resultado</string>
+</resources>
